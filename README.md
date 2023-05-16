@@ -12,7 +12,7 @@ The product is designed to deliver the best possible user experience with highly
 ## Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ `Design`: [Django Theme Black](https://github.com/app-generator/django-admin-black) - `Free Version`
+- ✅ `Design`: [Django Theme Black] - `Free Version`
 - ✅ `Sections` covered by the design:
   - ✅ **Admin section** (reserved for superusers)
   - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
@@ -32,7 +32,7 @@ The product is designed to deliver the best possible user experience with highly
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-black-dashboard.git
+$ git clone https://github.com/Superdev-Kevin/Python-Django-Dashboard-Project.git
 $ cd django-black-dashboard
 ```
 
